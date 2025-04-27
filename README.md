@@ -1,6 +1,3 @@
-# Banking-Agent-POC
-AI-powered loan origination system POC built with Streamlit. Automates loan application analysis, risk assessment, and approval using LLMs. Includes amortization schedules and downloadable PDF proposals.
-
 # Banking Agent POC
 
 A Proof-of-Concept (POC) for an AI-powered loan origination system built with Streamlit. This application demonstrates how Large Language Models (LLMs) can be used to automate and enhance the loan application process.
