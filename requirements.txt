@@ -1,0 +1,9 @@
+streamlit
+streamlit-lottie
+langchain
+langchain-community
+ollama
+jinja2
+reportlab
+pandas
+plotly
